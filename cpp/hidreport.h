@@ -2,6 +2,7 @@
 
 #include "hidapi.h"
 
+
 class HRDevice {
 public:
 	HRDevice(int vendorId, int deviceId);
